@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ***
-## External projects
 - **[advent of code 2023 (Rust)](https://git.flueren.eu/JonOfUs/advent-of-code-2023)**
 
 <!--
