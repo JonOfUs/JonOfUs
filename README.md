@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ***
-- **[advent of code 2023 (Rust)](https://git.flueren.eu/JonOfUs/advent-of-code-2023)**
+- **[advent of code 2024 (Rust/?)](https://git.flueren.eu/JonOfUs/advent-of-code-2024)**
 
 <!--
 **JonOfUs/JonOfUs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
